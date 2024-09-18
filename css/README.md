@@ -1,4 +1,8 @@
-**CSS Tutorial Outline**
+![CSS Tinitiate Image](css_tinitiate.png)
+# CSS Tutorial
+&copy; TINITIATE.COM
+
+## CONTEXT
  **1. Introduction to CSS**  
 - **Keywords** :
   - CSS (Cascading Style Sheets)

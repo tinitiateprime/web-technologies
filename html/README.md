@@ -1,4 +1,8 @@
-**HTML Tutorial Outline**
+![HTML Tinitiate Image](html_tinitiate.png)
+# HTML Tutorial
+&copy; TINITIATE.COM
+
+## CONTEXT
 **1. Introduction to HTML**  
 * Introduction
 * HTML Editors

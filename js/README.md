@@ -1,4 +1,9 @@
-**JavaScript Tutorial Outline (End to End)** **1. Introduction to JavaScript**  
+![JS Tinitiate Image](js_tinitiate.png)
+# JS Tutorial
+&copy; TINITIATE.COM
+
+## CONTEXT
+**1. Introduction to JavaScript**  
 - **Keywords** :
   - JavaScript
 

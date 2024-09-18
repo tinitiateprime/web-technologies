@@ -1,4 +1,9 @@
- **1. Integrating JavaScript with HTML**  
+![HTML, CSS & JS Tinitiate Image](html_css_&_js_tinitiate.png)
+# HTML, CSS & JS Tutorial
+&copy; TINITIATE.COM
+
+## CONTEXT
+**1. Integrating JavaScript with HTML**  
 - **Linking JavaScript**  
   - `<script src="app.js"></script>`
  
