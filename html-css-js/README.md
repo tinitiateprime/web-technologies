@@ -1,6 +1,9 @@
 ![HTML, CSS & JS Tinitiate Image](html_css_&_js_tinitiate.png)
+
 # HTML, CSS & JS Tutorial
 &copy; TINITIATE.COM
+
+##### [Back To Context](../README.md)
 
 ## CONTEXT
 **1. Integrating JavaScript with HTML**  
@@ -84,3 +87,8 @@
   - Marking tasks as complete with a click: `classList.toggle('completed')`
  
   - Saving tasks in `localStorage` and retrieving them on page load
+
+##### [Back To Context](../README.md)
+***
+| &copy; TINITIATE.COM |
+|----------------------|

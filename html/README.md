@@ -3,7 +3,7 @@
 # HTML Tutorial
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 
 ## CONTEXT
 **1. Introduction to HTML**  
@@ -159,7 +159,7 @@
   - HTML validators
   - Browser Developer Tools
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|

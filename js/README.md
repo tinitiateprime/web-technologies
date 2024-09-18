@@ -3,7 +3,7 @@
 # JS Tutorial
 &copy; TINITIATE.COM
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 
 ## CONTEXT
 **1. Introduction to JavaScript**  
@@ -462,7 +462,7 @@
 
   - Validating input data
 
-##### [Back To Context](./README.md)
+##### [Back To Context](../README.md)
 ***
 | &copy; TINITIATE.COM |
 |----------------------|
