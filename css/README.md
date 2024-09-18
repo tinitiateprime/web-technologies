@@ -1,6 +1,9 @@
 ![CSS Tinitiate Image](css_tinitiate.png)
+
 # CSS Tutorial
 &copy; TINITIATE.COM
+
+##### [Back To Context](./README.md)
 
 ## CONTEXT
  **1. Introduction to CSS**  
@@ -175,3 +178,8 @@
 46. `cursor` - Sets the type of cursor to display when pointing over an element.
 47. `overflow` - Specifies what happens if content overflows an element's box.
 48. `transform` - Applies transformations to an
+
+##### [Back To Context](./README.md)
+***
+| &copy; TINITIATE.COM |
+|----------------------|

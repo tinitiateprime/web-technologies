@@ -1,6 +1,9 @@
 ![JS Tinitiate Image](js_tinitiate.png)
+
 # JS Tutorial
 &copy; TINITIATE.COM
+
+##### [Back To Context](./README.md)
 
 ## CONTEXT
 **1. Introduction to JavaScript**  
@@ -458,3 +461,8 @@
   - Preventing Cross-Site Request Forgery (CSRF)
 
   - Validating input data
+
+##### [Back To Context](./README.md)
+***
+| &copy; TINITIATE.COM |
+|----------------------|

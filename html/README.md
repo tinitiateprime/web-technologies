@@ -1,6 +1,9 @@
 ![HTML Tinitiate Image](html_tinitiate.png)
+
 # HTML Tutorial
 &copy; TINITIATE.COM
+
+##### [Back To Context](./README.md)
 
 ## CONTEXT
 **1. Introduction to HTML**  
@@ -155,3 +158,8 @@
 - **Tools**
   - HTML validators
   - Browser Developer Tools
+
+##### [Back To Context](./README.md)
+***
+| &copy; TINITIATE.COM |
+|----------------------|
